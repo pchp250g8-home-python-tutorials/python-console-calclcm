@@ -1,2 +1,1 @@
-# CalcLcm
-CalcLcm
+CalcLcm. Python tutorials. Console Application. Algorithms. 
